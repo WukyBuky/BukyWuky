@@ -1,1 +1,2 @@
 Try, what git is about???
+Now add some test
